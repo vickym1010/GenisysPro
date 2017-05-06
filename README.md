@@ -14,7 +14,7 @@ Accepted Versions(支持版本):
 - [x] MCPE v1.0.6 Alpha
 - [x] MCPE v1.0.7 Alpha
 - [x] MCPE v1.0.8 Alpha
-
+- [x] MCPE v1.1.0 Alpha
 Donate
 -------------
 ### Coming soon
